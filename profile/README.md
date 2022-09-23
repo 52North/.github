@@ -8,6 +8,8 @@ We are spatial data enthusiasts! :earth_africa: 🫶🏽
 
 ---
 
-You can also find us at [Docker Hub](https://hub.docker.com/u/52north) :whale:.
+Some featured projects can be found at https://52north.github.io.
 
 We take your privacy data seriously. Read [our privacy statement](https://52north.org/privacy-statement/).
+
+You can also find us at [Docker Hub](https://hub.docker.com/u/52north) :whale:.
